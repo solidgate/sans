@@ -1,4 +1,4 @@
 secure-api
 ==========
 
-Authenticated access to RESTful web services without SSL.
+Authentication scheme for securely accessing a REST web service API without SSL.
